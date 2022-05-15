@@ -4,7 +4,7 @@ Map = Besar 300 x 300, Disesuain yang penting jangan Kebesaran (NAMA FILE "map.h
 
 PAKAI "head.h dan head.cpp" di github kalo bisa
 
-SKETSA ADA DI FILE CEK JANGAN LUPA
+SKETSA ADA DI FILE CEK JANGAN LUPA NAMA NYA 3
 
 DEADLINE JUMAT 20 MEI 2022
 
@@ -13,4 +13,4 @@ bangunan : Niko
 truk : Vania - Hani
 map : Akmal
 
-ini apa (T_T)
+
